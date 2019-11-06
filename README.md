@@ -12,6 +12,8 @@ Intructions
 ------------------------------------
 It is a Connect 4 2-player game. 
 
+Copy the HTML, CSS and JS files in the same folder and open the HTML one in a browser to launch it.
+
 Click on the empty circles to drop the chips. The first one to align 4 diagonally, vertically or horizontally, wins.
 
 You can restart the game at any time refresing the broswer. 
