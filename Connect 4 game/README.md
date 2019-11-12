@@ -1,6 +1,6 @@
 Connect 4 - Basic JS Front-End game
 ====================================
-Overwiew
+Overview
 ------------------------------------
 A simple browser game created as a solution to Jose Portilla's proposed exercise in his 'Python and Django Full Stack Web Developer Bootcamp' course.
 
