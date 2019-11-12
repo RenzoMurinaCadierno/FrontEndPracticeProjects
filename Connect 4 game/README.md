@@ -10,8 +10,8 @@ An awesome experience! You can find it here: https://www.udemy.com/course/python
 
 Intructions
 ------------------------------------
-It is a Connect 4 2-player game. 
+Place all three .html, .css and .js files in the same folder and run the .html in a browser, the game should automatically be playable.
 
 Click on the empty circles to drop the chips. The first one to align 4 diagonally, vertically or horizontally, wins.
 
-You can restart the game at any time refresing the broswer. 
+You can restart the game at any time by refresing the broswer. 
