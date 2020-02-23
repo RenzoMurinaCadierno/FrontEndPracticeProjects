@@ -7,12 +7,13 @@ A Gateway to all my front-end practice projects repositories.
 
 The description shown here for each of them is very brief, so do not hesitate to go read their own README files.
 
-Projects' list
+Projects list
 ------------------------------------
 - ***RNMC React Blog***
   - A simple blog app made with react from scratch.
   - [Working example](https://rnmcreactblog.web.app/)
   - [Github repository](https://github.com/RenzoMurinaCadierno/React-RNMCReactBlog)
+  
 - ***Vanilla Connect 4***
   - A very basic "Connect 4" game made with vanilla HTML, CSS and JS.
   - [Github repository](https://github.com/RenzoMurinaCadierno/VanillaConnect4)
