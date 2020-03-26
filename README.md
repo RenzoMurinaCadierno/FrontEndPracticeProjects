@@ -9,7 +9,7 @@ The description shown here for each of them is very brief, so do not hesitate to
 
 Projects list
 ------------------------------------
-- ***Gatsby.js Test Blog ***
+- ***Gatsby.js Test Blog***
   - A simple blog app made with GatsbyJS and hosted in Netlify.
   - [Working example](https://rnmcgatsbyblog.netlify.com/)
   - [Github repository](https://github.com/RenzoMurinaCadierno/gatsby-test-blog)
