@@ -9,6 +9,11 @@ The description shown here for each of them is very brief, so do not hesitate to
 
 Projects list
 ------------------------------------
+- ***Gatsby.js Test Blog ***
+  - A simple blog app made with GatsbyJS and hosted in Netlify.
+  - [Working example](https://rnmcgatsbyblog.netlify.com/)
+  - [Github repository](https://github.com/RenzoMurinaCadierno/gatsby-test-blog)
+  
 - ***RNMC React Blog***
   - A simple blog app made with react from scratch.
   - [Working example](https://rnmcreactblog.web.app/)
@@ -17,6 +22,16 @@ Projects list
 - ***Vanilla Connect 4***
   - A very basic "Connect 4" game made with vanilla HTML, CSS and JS.
   - [Github repository](https://github.com/RenzoMurinaCadierno/VanillaConnect4)
+  
+  
+Gatsby.js Test Blog
+------------------------------------
+A blog app made with GatsbyJS and hosted in Netlify.
+
+- [Working example](https://rnmcgatsbyblog.netlify.com/)
+- [Github repository](https://github.com/RenzoMurinaCadierno/gatsby-test-blog)
+
+This project was made possible due to the curiosity of learning at least the basics on Gatsby and to keep on practising GraphQL. It is just a simple blog where you can post and read posts. Only the admin can upload blog posts, there is no signup or signin system as I wanted to keep it as simple as it could be.
 
 RNMC React Blog
 ------------------------------------
