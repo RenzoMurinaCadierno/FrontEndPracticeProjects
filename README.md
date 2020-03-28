@@ -9,6 +9,11 @@ The description shown here for each of them is very brief, so do not hesitate to
 
 Projects list
 ------------------------------------
+- ***RNMC Clothes***
+  - A fully functional e-commerce web app powered by React.
+  - [Working example](https://rnmcclothes.herokuapp.com/)
+  - [Github repository](https://github.com/RenzoMurinaCadierno/React-RNMCClothes)
+
 - ***Gatsby.js Test Blog***
   - A simple blog app made with GatsbyJS and hosted in Netlify.
   - [Working example](https://rnmcgatsbyblog.netlify.com/)
@@ -23,6 +28,21 @@ Projects list
   - A very basic "Connect 4" game made with vanilla HTML, CSS and JS.
   - [Github repository](https://github.com/RenzoMurinaCadierno/VanillaConnect4)
   
+  
+RNMC Clothes
+------------------------------------
+A fully functional e-commerce web app powered by React.
+
+- [Working example](https://rnmcclothes.herokuapp.com/)
+- [Github repository](https://github.com/RenzoMurinaCadierno/React-RNMCClothes)
+
+Nothing but functional e-commerce app, an Outlet one to be precise. You can browse each category and check for the items there, add items to your cart and check out. Payment simulation is available if you want to test it.
+
+User authentication and session persistance is handled. You can log in, close the browser and reopen it, and the app should still reckon it is you. Speaking of which, you can sign up, and log in with either your signed up email and password or with your Google account. Firebase handles both.
+
+This is one of the most complete and functional apps I have uploaded up to now. Create-react-app was used to initialize the project, but the magic wouldn't have sparkled without the whole ecosystem that surrounds it. Redux, Redux Persist, Redux Sagas, React-Router, React Lazy and Suspense, ErrorBoundary, Firebase Firestore, NodeJS, Express, Styled Components, Stripe payments and some other libraries and utilities made what you see here possible.
+
+It also works offline, as it is also a Progressive Web App. Open the webpage where the site is hosted with a mobile device and it will ask you if you wish to download it. Or, open it from a laptop/PC using a compatible browser (preferably Google Chrome), and download it from that browser's menu.
   
 Gatsby.js Test Blog
 ------------------------------------
