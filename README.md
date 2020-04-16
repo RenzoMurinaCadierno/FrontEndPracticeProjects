@@ -9,6 +9,11 @@ The description shown here for each of them is very brief, so do not hesitate to
 
 Projects list
 ------------------------------------
+- ***RNMC Burgers***
+  - A web app to customize and order your personal favorite burgers.
+  - [Working example](https://rnmcburgers.web.app/)
+  - [Github repository](https://github.com/RenzoMurinaCadierno/React-RNMCBurgers)
+  
 - ***RNMC Clothes***
   - A fully functional e-commerce web app powered by React.
   - [Working example](https://rnmcclothes.herokuapp.com/)
@@ -28,7 +33,20 @@ Projects list
   - A very basic "Connect 4" game made with vanilla HTML, CSS and JS.
   - [Github repository](https://github.com/RenzoMurinaCadierno/VanillaConnect4)
   
+
+**RNMC Clothes**
+------------------------------------
+A web app to customize and order your personal favorite burgers.
+
+  - [Working example](https://rnmcburgers.web.app/)
+  - [Github repository](https://github.com/RenzoMurinaCadierno/React-RNMCBurgers)
   
+A simple burger-customization web app, where you can add or remove ingredients on the fly. The burger is re-created instantly as you do so, price gets updated in real time and you can log in to complete a form to order it. All burgers you order are stored in Firebase and you can retrieve them with the given option available in the navigation bar.
+
+User authentication and session persistance is handled. You can log in, close the browser and reopen it, and the app should still reckon it is you. LocalStorage is used for session persistance, and timeout is checked each time the App renders. If session expires, a logout action is automatically dispatched.
+
+Create-react-app was used to initialize the project, but the project involves several libraries. Redux, Redux Sagas, React-Router, Hooks, Axios, PropTypes, React Lazy and Suspense, and some other libraries and utilities made the app as a whole.
+
 RNMC Clothes
 ------------------------------------
 A fully functional e-commerce web app powered by React.
