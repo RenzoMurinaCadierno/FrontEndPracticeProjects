@@ -9,6 +9,11 @@ The description shown here for each of them is very brief, so do not hesitate to
 
 Projects list
 ------------------------------------
+- ***RNMC Colors***
+  - A Color Palette generator web app to save your customized palettes and copy color codes in diverse formats.
+  - [Working example](https://renzomurinacadierno.github.io/React-RNMCRainbow/)
+  - [Github repository](https://github.com/RenzoMurinaCadierno/React-RNMCColors)
+  
 - ***RNMC Burgers***
   - A web app to customize and order your personal favorite burgers.
   - [Working example](https://rnmcburgers.web.app/)
@@ -34,12 +39,23 @@ Projects list
   - [Github repository](https://github.com/RenzoMurinaCadierno/VanillaConnect4)
   
 
-**RNMC Clothes**
+**RNMC Colors**
+------------------------------------
+A Color Palette generator web app to save your customized palettes and copy color codes in diverse formats.
+
+- [Working example](https://renzomurinacadierno.github.io/React-RNMCRainbow/)
+- [Github repository](https://github.com/RenzoMurinaCadierno/React-RNMCColors)
+  
+A web app that allows you to create your own custom color palettes, name it and the colors inside of it. You can view it at any time, dynamically vary each color's luminosity and select HEX/RGB/RGBA formats to copy it to clipboard. Colors can be re-ordered in creation-mode by drag-and-dropping them, you can customize both colors and palette's names, delete and add new ones as you please.
+
+Material UI was the framework responsible for the styling, which I used to enhance breakpoints for each device size suggested there. ChromaJS and react-color libraries made working with colors way easier, and react-copy-to-clipboard aided with that functionality specified on its name. Array-move and react-sortable-hoc were utilized to add drag-and-drop mechanics to palette creation, and emoji-mart for the standard emoji picker solution add a finishing touch to palette names.
+
+**RNMC Burgers**
 ------------------------------------
 A web app to customize and order your personal favorite burgers.
 
-  - [Working example](https://rnmcburgers.web.app/)
-  - [Github repository](https://github.com/RenzoMurinaCadierno/React-RNMCBurgers)
+- [Working example](https://rnmcburgers.web.app/)
+- [Github repository](https://github.com/RenzoMurinaCadierno/React-RNMCBurgers)
   
 A simple burger-customization web app, where you can add or remove ingredients on the fly. The burger is re-created instantly as you do so, price gets updated in real time and you can log in to complete a form to order it. All burgers you order are stored in Firebase and you can retrieve them with the given option available in the navigation bar.
 
