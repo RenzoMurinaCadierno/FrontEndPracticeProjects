@@ -24,6 +24,11 @@ Projects list
   - [Working example](https://rnmcclothes.herokuapp.com/)
   - [Github repository](https://github.com/RenzoMurinaCadierno/React-RNMCClothes)
 
+- ***RNMC Pokedex***
+  - A Pokemon finder web app created to teach React's basics.
+  - [Working example](https://rnmc-react-pokedex.netlify.app/)
+  - [Github repository](https://github.com/RenzoMurinaCadierno/React-Pokedex)
+
 - ***Gatsby.js Test Blog***
   - A simple blog app made with GatsbyJS and hosted in Netlify.
   - [Working example](https://rnmcgatsbyblog.netlify.com/)
@@ -77,6 +82,17 @@ User authentication and session persistance is handled. You can log in, close th
 This is one of the most complete and functional apps I have uploaded up to now. Create-react-app was used to initialize the project, but the magic wouldn't have sparkled without the whole ecosystem that surrounds it. Redux, Redux Persist, Redux Sagas, React-Router, React Lazy and Suspense, ErrorBoundary, Firebase Firestore, NodeJS, Express, Styled Components, Stripe payments and some other libraries and utilities made what you see here possible.
 
 It also works offline, as it is also a Progressive Web App. Open the webpage where the site is hosted with a mobile device and it will ask you if you wish to download it. Or, open it from a laptop/PC using a compatible browser (preferably Google Chrome), and download it from that browser's menu.
+
+RNMC Clothes
+------------------------------------
+A Pokemon finder web app created to teach React's basics.
+
+- [Working example](https://rnmc-react-pokedex.netlify.app/)
+- [Github repository](https://github.com/RenzoMurinaCadierno/React-Pokedex)
+
+A simple web app created in a session of some hours used to teach the basics and a little more to some people willing to learn React's ecosystem. 
+
+No class-based components were used here, everything is leveraged with functions and hooks for the sake of simplicity. useState, useEffect and useContext were implemented, as well as two custom hooks. Hooks lifecycles using dependencies and cleanup were dealt with too. Topics covered also included React-router-dom, React-transition-group, Lazy loading with Suspense, fetch requests, CSS modules, Context API and controlled inputs.
   
 Gatsby.js Test Blog
 ------------------------------------
