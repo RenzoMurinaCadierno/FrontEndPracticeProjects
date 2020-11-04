@@ -9,6 +9,11 @@ The description shown here for each of them is very brief, so do not hesitate to
 
 Projects list
 ------------------------------------
+- ***Yugi-Calculator-MAX***
+  - An multi-purpose app to assist Yu-Gi-Oh! duelists, taken to the max!
+  - [Working example](https://ycm.netlify.app/)
+  - [Github repository](https://github.com/RenzoMurinaCadierno/Yugi-Calculator-Max)
+  
 - ***RNMC Colors***
   - A Color Palette generator web app to save your customized palettes and copy color codes in diverse formats.
   - [Working example](https://renzomurinacadierno.github.io/React-RNMCRainbow/)
@@ -42,6 +47,24 @@ Projects list
 - ***Vanilla Connect 4***
   - A very basic "Connect 4" game made with vanilla HTML, CSS and JS.
   - [Github repository](https://github.com/RenzoMurinaCadierno/VanillaConnect4)
+  
+  
+**Yugi-Calculator-MAX**
+------------------------------------
+An multi-purpose app to assist Yu-Gi-Oh! duelists, taken to the max!
+
+  - [Working example](https://ycm.netlify.app/)
+  - [Github repository](https://github.com/RenzoMurinaCadierno/Yugi-Calculator-Max)
+  
+Yugi Calculator MAX (YCM) is an app made by a fan for fans. It includes some helpful utilities created to assist Yu-Gi-Oh! duelists in or off game:
+
+  - Duel calculator
+  - Logging
+  - Card searching (with their prices in the market)
+  - Deck building (with hand/draw testing capabilities)
+  -Configuration menu (to customize the app)
+
+Besides libraries mentioned in "Acknowledgments" section inside the app, YCM was completely built from scratch. Almost all hooks used here, as well as state management, component logic and styling, mediaqueries and the likes, were home-made.
   
 
 **RNMC Colors**
