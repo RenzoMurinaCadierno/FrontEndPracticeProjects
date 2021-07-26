@@ -9,6 +9,11 @@ The description shown here for each of them is very brief, so do not hesitate to
 
 Projects list
 ------------------------------------
+- ***React Fanmade Hooks***
+  - A multi-purpuse React custom hook's library made by and for React fans.
+  - [Working example](https://react-fanmade-hooks.netlify.app/)
+  - [Github repository](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks)
+
 - ***Yugi-Calculator-MAX***
   - A multi-purpose app to assist Yu-Gi-Oh! duelists, taken to the max!
   - [Working example](https://ycm.netlify.app/)
@@ -48,7 +53,41 @@ Projects list
   - A very basic "Connect 4" game made with vanilla HTML, CSS and JS.
   - [Github repository](https://github.com/RenzoMurinaCadierno/VanillaConnect4)
   
+
+**React Fanmade Hooks**
+------------------------------------
+A multi-purpuse React custom hook's library made by and for React fans.
+
+  - [Working example](https://react-fanmade-hooks.netlify.app/)
+  - [Github repository](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks)
   
+Currently available hooks are as follow (links to their live examples are in each file's readme):
+
+  - Animations, UI & UX
+    - [useAnimatedNumber](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks/tree/master/src/hooks/useAnimatedNumber)
+    - [useMediaQuery](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks/tree/master/src/hooks/useMediaQuery)
+    - [useTimer](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks/tree/master/src/hooks/useTimer)
+    
+  - Form handlers
+    - [useInputHandlers](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks/tree/master/src/hooks/useInputHandlers)
+    
+  - State Managers
+    - [useCount](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks/tree/master/src/hooks/useCount)
+    - [useLocalStorage](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks/tree/master/src/hooks/useLocalStorage)
+    - [usePreviousValue](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks/tree/master/src/hooks/usePreviousValue)
+    - [useToggle](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks/tree/master/src/hooks/useToggle)
+    - [useTimeoutToggle](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks/tree/master/src/hooks/useTimeoutToggle)
+    - [useValueToggle](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks/tree/master/src/hooks/useValueToggle)
+    
+  - Effect Controllers
+    - [useCallbackOnce](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks/tree/master/src/hooks/useCallbackOnce)
+    - [useCallbackXTimes](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks/tree/master/src/hooks/useCallbackXTimes)
+    - [useEffectOnce](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks/tree/master/src/hooks/useEffectOnce)
+    - [useEffectXTimes](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks/tree/master/src/hooks/useEffectXTimes)
+    - [useLatency](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks/tree/master/src/hooks/useLatency)
+    - [useReRender](https://github.com/RenzoMurinaCadierno/React-Fanmade-Hooks/tree/master/src/hooks/useReRender)
+
+
 **Yugi-Calculator-MAX**
 ------------------------------------
 A multi-purpose app to assist Yu-Gi-Oh! duelists, taken to the max!
